@@ -7,3 +7,5 @@ Estre proyecto fue hecho para poner a prueba nuestro conocimientos de HTML
 ## Codigo
 Codigo que se trabajo para la creacion de la pagina desde 0 para el proyecto 8
 ![Vista Previa](https://i.postimg.cc/nhKCg50z/Captura-de-pantalla-26.png)
+## Enlace a la pagina
+https://alifinal.github.io/Pixel-Pulse/
